@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ghaith1345
+- 👀 I’m interested in coding because its very fun and is useful if I want to become some sort of software engineer.
+- 🌱 I’m currently learning python because last year I did Arduino and found it fun and interesting so im now doing a harder type of coding.
+- 💞️ My favourite hobby is playing basketball
+- 📫 You can reach me at 900364@pdsb.net
